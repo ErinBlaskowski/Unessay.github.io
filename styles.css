@@ -1,5 +1,11 @@
+head {
+    background: #0088ff;
+
+    font-family: Times New Roman, Franklin Gothic Medium, sans-serif;
+}
+
 body {
-    background: #00ddff;
+    background: #8ecaff;
 
     font-family: Times New Roman, Franklin Gothic Medium, sans-serif;
 }
