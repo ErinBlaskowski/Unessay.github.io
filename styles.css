@@ -9,3 +9,7 @@ body {
 
     font-family: Times New Roman, Franklin Gothic Medium, sans-serif;
 }
+
+.environment { 
+    display: flex; flex-wrap:wrap;
+}
