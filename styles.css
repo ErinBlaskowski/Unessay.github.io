@@ -10,12 +10,12 @@ body {
     font-family: Times New Roman, Franklin Gothic Medium, sans-serif;
 }
 
-.environment {
+.projects {
     display: flex;
     flex-wrap: wrap;
 }
 
-.environment img {
+.projects img {
     width: 50%;  /* Makes the image responsive */
     max-width: 50px;  /* Maximum width */
     height: auto;  /* Maintain aspect ratio */
