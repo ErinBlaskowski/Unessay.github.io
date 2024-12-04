@@ -14,7 +14,7 @@ body {
     display: flex; flex-wrap:wrap;
 }
 
-.environment img {
+.environment img{
     width: 500px;
     height: 300px;
     margin: 10px;
