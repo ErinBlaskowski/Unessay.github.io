@@ -17,6 +17,7 @@ body {
     flex-wrap: wrap;
     justify-content: center; /* Center-align content */
     width: 100%;
+    margin-bottom: 20px;
 }
 
 .projects img {
