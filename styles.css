@@ -13,7 +13,7 @@ body {
     background: #8ecaff;
 
     font-family: Times New Roman, Franklin Gothic Medium, sans-serif;
-    text-size-adjust: 75px;
+    font-size: 60px;
 }
 
 .intro {
@@ -23,7 +23,7 @@ body {
 
 .intro div{
     margin-bottom: 20px;
-    text-size-adjust: 80px;
+    font-size: 75px;
 }
 
 .intro img {
@@ -43,7 +43,7 @@ body {
 
 .environment div{
     margin-bottom: 20px;
-    text-size-adjust: 80px;
+    font-size: 75px;
 }
 
 .environment img {
@@ -63,7 +63,7 @@ body {
 
 .isolation div{
     margin-bottom: 20px;
-    text-size-adjust: 80px;
+    font-size: 75px;
 }
 
 .isolation img {
@@ -83,7 +83,7 @@ body {
 
 .remodeling div{
     margin-bottom: 20px;
-    text-size-adjust: 80px;
+    font-size: 75px;
 }
 
 .remodeling img {
@@ -103,7 +103,7 @@ body {
 
 .conclusion div{
     margin-bottom: 20px;
-    text-size-adjust: 80px;
+    font-size: 75px;
 }
 
 .conclusion img {
