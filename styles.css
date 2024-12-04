@@ -19,7 +19,7 @@ body {
 
 .neoImg img {
     width: 50%;  /* Makes the image responsive */
-    max-width: 500px;  /* Maximum width */
+    max-width: 200px;  /* Maximum width */
     height: auto;  /* Maintain aspect ratio */
     margin: 10px auto;  /* Center with margin */
     border: 2px solid rgb(84, 115, 125);
