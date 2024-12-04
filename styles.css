@@ -6,12 +6,12 @@ h1 {
 }
 
 head{
-    -ms-text-size-adjust: 50px;
+    -ms-text-size-adjust: 60px;
 }
 
 body {
     background: #ffc88e;
-
+    text-align: center;
     font-family: Times New Roman, Franklin Gothic Medium, sans-serif;
     font-size: 20px;
 }
@@ -27,7 +27,7 @@ body {
 
 .intro img {
     width: 100%;  /* Makes the image responsive */
-    max-width: 700px;  /* Maximum width */
+    max-width: 800px;  /* Maximum width */
     height: auto;  /* Maintain aspect ratio */
     margin: 10px auto;  /* Center with margin */
     border: 2px solid rgb(84, 115, 125);
@@ -46,7 +46,7 @@ body {
 
 .environment img {
     width: 100%;  /* Makes the image responsive */
-    max-width: 700px;  /* Maximum width */
+    max-width: 800px;  /* Maximum width */
     height: auto;  /* Maintain aspect ratio */
     margin: 10px auto;  /* Center with margin */
     border: 2px solid rgb(238, 135, 0);
@@ -65,7 +65,7 @@ body {
 
 .isolation img {
     width: 100%;  /* Makes the image responsive */
-    max-width: 700px;  /* Maximum width */
+    max-width: 800px;  /* Maximum width */
     height: auto;  /* Maintain aspect ratio */
     margin: 10px auto;  /* Center with margin */
     border: 2px solid rgb(238, 135, 0);
@@ -84,7 +84,7 @@ body {
 
 .remodeling img {
     width: 100%;  /* Makes the image responsive */
-    max-width: 700px;  /* Maximum width */
+    max-width: 800px;  /* Maximum width */
     height: auto;  /* Maintain aspect ratio */
     margin: 10px auto;  /* Center with margin */
     border: 2px solid rgb(238, 135, 0);
@@ -103,7 +103,7 @@ body {
 
 .conclusion img {
     width: 100%;  /* Makes the image responsive */
-    max-width: 700px;  /* Maximum width */
+    max-width: 800px;  /* Maximum width */
     height: auto;  /* Maintain aspect ratio */
     margin: 10px auto;  /* Center with margin */
     border: 2px solid rgb(238, 135, 0);
