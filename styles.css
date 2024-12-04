@@ -15,7 +15,7 @@ body {
     flex-wrap: wrap;
 }
 
-.projects img {
+.neoImg img {
     width: 50%;  /* Makes the image responsive */
     max-width: 50px;  /* Maximum width */
     height: auto;  /* Maintain aspect ratio */
