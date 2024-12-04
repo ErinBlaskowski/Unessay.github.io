@@ -2,12 +2,14 @@ h1 {
     background: #0088ff;
     margin: 10px auto;  /* Center with margin */
     font-family: Times New Roman, Franklin Gothic Medium, sans-serif;
+    text-align: center;
 }
 
 body {
     background: #8ecaff;
 
     font-family: Times New Roman, Franklin Gothic Medium, sans-serif;
+    -ms-text-size-adjust: 20px;
 }
 
 .projects {
