@@ -114,3 +114,23 @@ body {
     border: 2px solid rgb(84, 115, 125);
     display: block;
 }
+
+h2 {
+    font-size: 75px;
+}
+
+h3 {
+    font-size: 75px;
+}
+
+h4{
+    font-size: 75px;
+}
+
+h5{
+    font-size: 75px;
+}
+
+h6{
+    font-size: 75px;
+}
