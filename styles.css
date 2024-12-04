@@ -13,7 +13,7 @@ body {
     background: #8ecaff;
 
     font-family: Times New Roman, Franklin Gothic Medium, sans-serif;
-    -ms-text-size-adjust: 75px;
+    text-size-adjust: 75px;
 }
 
 .intro {
