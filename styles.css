@@ -13,6 +13,8 @@ body {
 .projects {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center; /* Center-align content */
+    width: 100%;
 }
 
 .neoImg img {
