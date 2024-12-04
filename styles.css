@@ -19,7 +19,7 @@ body {
     width: 100%;
 }
 
-.neoImg img {
+.projects img {
     width: 100%;  /* Makes the image responsive */
     max-width: 500px;  /* Maximum width */
     height: auto;  /* Maintain aspect ratio */
