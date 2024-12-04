@@ -10,15 +10,16 @@ body {
     font-family: Times New Roman, Franklin Gothic Medium, sans-serif;
 }
 
-.environment { 
-    display: flex; flex-wrap:wrap;
+.environment {
+    display: flex;
+    flex-wrap: wrap;
 }
 
-.environment img{
-    width: 500px;
-    height: 300px;
-    margin: 10px;
+.environment img {
+    width: 100%;  /* Makes the image responsive */
+    max-width: 500px;  /* Maximum width */
+    height: auto;  /* Maintain aspect ratio */
+    margin: 10px auto;  /* Center with margin */
     border: 2px solid rgb(84, 115, 125);
     display: block;
-    margin: auto;
 }
