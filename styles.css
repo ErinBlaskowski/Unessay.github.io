@@ -13,8 +13,6 @@ body {
 }
 
 .intro {
-    display: flex;
-    flex-wrap: wrap;
     justify-content: center; /* Center-align content */
     width: 100%;
 }
@@ -34,8 +32,6 @@ body {
 
 
 .environment{
-    display: flex;
-    flex-wrap: wrap;
     justify-content: center; /* Center-align content */
     width: 100%;
 }
@@ -55,8 +51,6 @@ body {
 
 
 .isolation {
-    display: flex;
-    flex-wrap: wrap;
     justify-content: center; /* Center-align content */
     width: 100%;
 }
@@ -76,8 +70,6 @@ body {
 
 
 .remodeling {
-    display: flex;
-    flex-wrap: wrap;
     justify-content: center; /* Center-align content */
     width: 100%;
 }
@@ -97,8 +89,6 @@ body {
 
 
 .conclusion {
-    display: flex;
-    flex-wrap: wrap;
     justify-content: center; /* Center-align content */
     width: 100%;
 }
