@@ -23,6 +23,7 @@ body {
 
 .intro div{
     margin-bottom: 20px;
+    text-size-adjust: 80px;
 }
 
 .intro img {
@@ -42,6 +43,7 @@ body {
 
 .environment div{
     margin-bottom: 20px;
+    text-size-adjust: 80px;
 }
 
 .environment img {
@@ -61,6 +63,7 @@ body {
 
 .isolation div{
     margin-bottom: 20px;
+    text-size-adjust: 80px;
 }
 
 .isolation img {
@@ -80,6 +83,7 @@ body {
 
 .remodeling div{
     margin-bottom: 20px;
+    text-size-adjust: 80px;
 }
 
 .remodeling img {
@@ -99,6 +103,7 @@ body {
 
 .conclusion div{
     margin-bottom: 20px;
+    text-size-adjust: 80px;
 }
 
 .conclusion img {
